@@ -32,19 +32,16 @@ Upon the Arkreen IaaS, the participants may conduct various energy services such
 
 ## Arkreen Network Vision
 
-**Phase 1: 1-3 years**
-**Climate Tech Stack and Renewable Energy Certificate.**
+**Phase ONE 1-3 years: Climate Tech Stack and Renewable Energy Certificate.**
 
 * Arkreen Network will provide a climate tech stack, including blockchain, IoT, and token, to offer trustless digital MRV standards for decarbonization applications such as Renewable Energy Certificate(REC) and Regenerative Finance (ReFi) to monetize energy network data.
 * We aim to connect 1 million distributed renewable energy equipment (particularly PV panels) online\&onchain leveraged by token incentives and service revenue.
 
-**Phase 2: 3-5 years**
-**Global Energy Network and Distributed Energy Resources.**
+**Phase TWO 3-5 years: Global Energy Network and Distributed Energy Resources.**
 
 * Arkreen Network will partner with global DER players with its global renewable equipment, i.e., photovoltaic panel and storage battery.
 * More application scenarios such as Green Computation and EV charging columns.
 
-**Phase 3: 5 years and beyond**
-**SubDAO driven climate+crypto solutions.**
+**Phase Three 5 years and beyond: SubDAO driven climate+crypto solutions.**
 
 * Arkreen Network will migrate its experience in the power sector to other fields with climate+crypto solutions.
