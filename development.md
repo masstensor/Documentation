@@ -13,9 +13,9 @@ Arkreen Network will progressively decentralize and build out its platform as th
         -   The miner earns gAKRE in the same way as the mainnet.
         -   gAKRE is non-transferable
 
-    -     Supported network rewards
+    -   Supported network rewards
         -   Proof of Green-Energy Generation (PoGG, see Proof of Green-Energy Generation for detail).
-    
+
     -   Supported mining methods
         -   Game Mining: For those who have ordered and those who actively contribute to the network, they can register for an identity NFT to participate with a Game Miner. A Game Miner is a custodian application that simulates what a physical Arkreen Miner does, to test the network usability.
     
