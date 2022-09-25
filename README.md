@@ -10,13 +10,11 @@ Hydropower, wind power, solar power, and biomass power are primary renewable ene
 
 IoT (Internet of Things), AI (Artificial Intelligence), blockchain (Distributed Ledger Technology) and token economy are the key points to work out. By digitizing the energy facility’s parameter and status, a twined context reflecting the physical facility could be created in the digital world. Blockchain protects the data integrity and in addition token economy encourages participants (energy producers, consumers or both, to be prosumers) to build a harmonious DER ecosystem and monetize their contribution with little friction. With those innovative technologies, Arkreen Network aims to build up this infrastructure in a decentralized way from bottom-up by incentivized renewable energy prosumers.
 
-
-
 ## **The Arkreen Network**
 
 To boost the longtail distributed renewable energy ecosystem, Arkreen Network is developed to build a Web3-powered infrastructure for globally-distributed renewable resources connection and monetization to enable carbon-reduction applications.
 
-<img src=".gitbook/assets/image.png" alt="" data-size="original">
+<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
 We believe an infrastructure that could aggregate data from and pass downlink control to energy facilities in a secure and trusted way, is the foundation for a thriving distributed renewable energy ecosystem. The purpose of the Arkreen Network is building such an IaaS (Infrastructure as a Service) on the shoulder of Web3's power.
 
@@ -28,12 +26,10 @@ The IoT ensures that the energy measurement data can be collected directly from 
 
 Upon the Arkreen IaaS, the participants may conduct various energy services such as VPP (Virtual Power Plant) and accurate monitoring and forecasting, as well as financial services such as REC (Renewable Energy Certificate) trading and Real-World-Asset collateralization. Such applications are believed to foster the renewable energy ecosystem.
 
-
-
 ## Arkreen Network Vision
 
-Phase|Span|Vision
----|---|---
-Phase 1|1-3 years|**Climate Tech Stack and Renewable Energy Certificate.**<br><br> Arkreen Network will provide a climate tech stack, including blockchain, IoT, and token, to offer trustless digital MRV standards for Renewable Energy Certificate(REC) and Regenerative Finance (ReFi) to monetize energy network data.<br><br> We aim to connect 1 million distributed renewable energy equipment (particularly PV panels) online&onchain leveraged by token incentives and application revenue such as REC.
-Phase 2|3-5 years|**Global Energy Network and Distributed Energy Resources.**<br><br>Arkreen network will partner with global DER players with its global renewable equipment, i.e., photovoltaic panel and storage battery.<br><br>Arkreen will promote Green Computation and EV charging columns.
-Phase 3|5 years and beyond|**SubDAO driven climate+crypto solutions.**<br><br>Arkreen Network will migrate its experience in the power sector to other fields with climate+crypto solutions.
+| Phase   | Span               | Vision                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------- | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Phase 1 | 1-3 years          | <p><strong>Climate Tech Stack and Renewable Energy Certificate.</strong><br><br>Arkreen Network will provide a climate tech stack, including blockchain, IoT, and token, to offer trustless digital MRV standards for Renewable Energy Certificate(REC) and Regenerative Finance (ReFi) to monetize energy network data.<br><br>We aim to connect 1 million distributed renewable energy equipment (particularly PV panels) online&#x26;onchain leveraged by token incentives and application revenue such as REC.</p> |
+| Phase 2 | 3-5 years          | <p><strong>Global Energy Network and Distributed Energy Resources.</strong><br><br>Arkreen network will partner with global DER players with its global renewable equipment, i.e., photovoltaic panel and storage battery.<br><br>Arkreen will promote Green Computation and EV charging columns.</p>                                                                                                                                                                                                                  |
+| Phase 3 | 5 years and beyond | <p><strong>SubDAO driven climate+crypto solutions.</strong><br><br>Arkreen Network will migrate its experience in the power sector to other fields with climate+crypto solutions.</p>                                                                                                                                                                                                                                                                                                                                  |
