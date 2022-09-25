@@ -80,7 +80,7 @@ Arkreen Network will progressively decentralize and build out its platform as th
 ### Arkreen Miner 
 1st generation Arkreen Miner is DTU form-factor as a retrofit solution to upgrade existing photovoltaic panel equipment to easily and quickly access the Arkreen network for incentive rewards.
 
-|Miner Type<img width=50/>|Mining Method<img width=500/>|Rewards|Launch Phase|Appearance
+|Miner Type|Mining Method&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp&emsp|Rewards|Launch Phase|Appearance
 ---|---|---|---|---
 Gaming Miner|A Gaming Miner is a testnet only remote application that simulates a physical miner. Network builders can apply for Gaming Miners for free. It's also airdropped to the network builder who has pre-ordered a remote or standard miner. A Gaming Miner simulates a physical miner except that it's not eligible for REC issue. A Gaming Miner mines gAKRE (gaming AKRE) until the owner's remote or standard miner is onboarded. A Gaming Miner NFT is minted for every airdropped Gaming Miner.|gAKRE (testnet)|Phase 1.0|Image
 Remote Miner|A Remote Miner is a fractional miner running remotely. A guardian module which is plugged on the energy facility (e.g. inverters in a solar farm), on behalf of the collecive miner owners, fractionizes the energy facility capacity to multiple ones of 0.1kW each and participats in Arkreen Network. A Remote Miner mines tAKRE (testing AKRE) in the testnet and then AKRE when the mainnet is launched. A Remote Miner NFT is minted for every Remote Miner when it's onboarded.|tAKRE (testnet)<br>AKRE (mainnet)|Phase 1.1|Image
