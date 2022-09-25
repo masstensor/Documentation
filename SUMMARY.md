@@ -1,11 +1,36 @@
 # Table of contents
 
+## Arkreen Network
+
 * [Overview](README.md)
-  * [Background and the Pain Points](readme/background-and-the-pain-points.md)
-  * [The Arkreen Network](readme/the-arkreen-network.md)
-  * [Arkreen Network Vision](readme/arkreen-network-vision.md)
-* [Development](development/README.md)
-  * [Technical Roadmap](development/technical-roadmap.md)
-  * [Miner](development/miner.md)
-* [AKRE Token](akre-token.md)
-* [Pillar Applications](pillar-applications.md)
+  * [Background and the Pain Points](arkreen-network/readme/background-and-the-pain-points.md)
+  * [The Arkreen Network](arkreen-network/readme/the-arkreen-network.md)
+  * [Arkreen Network Vision](arkreen-network/readme/arkreen-network-vision.md)
+* [Development](arkreen-network/development/README.md)
+  * [Technical Roadmap](arkreen-network/development/technical-roadmap.md)
+  * [Miner](arkreen-network/development/miner.md)
+* [How to Use](arkreen-network/how-to-use/README.md)
+  * [Arkreen Wallet](arkreen-network/how-to-use/arkreen-wallet.md)
+  * [Arkreen Explorer](arkreen-network/how-to-use/arkreen-explorer.md)
+
+## Economy & Governance
+
+* [AKRE Token](economy-and-governance/akre-token/README.md)
+  * [Network Primitives](economy-and-governance/akre-token/network-primitives.md)
+  * [What is AKRE?](economy-and-governance/akre-token/what-is-akre.md)
+  * [Proof of Green-Energy Generation](economy-and-governance/akre-token/proof-of-green-energy-generation.md)
+* [Arkreen NFTs](economy-and-governance/arkreen-nfts.md)
+* [Governance](economy-and-governance/governance.md)
+
+## Ecosystem
+
+* [Pillar Applications](ecosystem/pillar-applications/README.md)
+  * [Generation of Renewable Energy Certificates](ecosystem/pillar-applications/generation-of-renewable-energy-certificates.md)
+  * [Global green power computing network](ecosystem/pillar-applications/global-green-power-computing-network.md)
+  * [Global Electric Vehicle Charging Network](ecosystem/pillar-applications/global-electric-vehicle-charging-network.md)
+  * [Residential and Commercial Energy Management System](ecosystem/pillar-applications/residential-and-commercial-energy-management-system.md)
+  * [DER (Distributed Energy Resources) Operations Platform](ecosystem/pillar-applications/der-distributed-energy-resources-operations-platform.md)
+
+## Support
+
+* [FAQ](support/faq.md)
