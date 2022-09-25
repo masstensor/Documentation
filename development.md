@@ -64,3 +64,19 @@ Arkreen Network will progressively decentralize and build out its platform as th
 | Gaming Miner   | A Gaming Miner is a testnet only remote application that simulates a physical miner. Network builders can apply for Gaming Miners for free. It's also airdropped to the network builder who has pre-ordered a remote or standard miner. A Gaming Miner simulates a physical miner except that it's not eligible for REC issue. A Gaming Miner mines gAKRE (gaming AKRE) until the owner's remote or standard miner is onboarded. A Gaming Miner NFT is minted for every airdropped Gaming Miner. | gAKRE (testnet)                          | Phase 1.0      | ![](<.gitbook/assets/image (3).png>) |
 | Remote Miner   | A Remote Miner is a fractional miner running remotely. A guardian module which is plugged on the energy facility (e.g. inverters in a solar farm), on behalf of the collecive miner owners, fractionizes the energy facility capacity to multiple ones of 0.1kW each and participats in Arkreen Network. A Remote Miner mines tAKRE (testing AKRE) in the testnet and then AKRE when the mainnet is launched. A Remote Miner NFT is minted for every Remote Miner when it's onboarded.           | <p>tAKRE (testnet)<br>AKRE (mainnet)</p> | Phase 1.1      | ![](<.gitbook/assets/image (2).png>) |
 | Standard Miner | A Standard Miner is a plug-in dongle that the solar PV owners could plug into their existing inverters to upgrade the facilities and participate in Arkreen Network. A Standard Miner mines tAKRE (testing AKRE) in the testnet and then AKRE when the mainnet is launched. A Standard Miner NFT is minted for every Standard Miner when it's onboarded.                                                                                                                                         | <p>tAKRE (testnet)<br>AKRE (mainnet)</p> | Phase 1.2\~1.3 | ![](<.gitbook/assets/image (1).png>) |
+
+
+### Shipping Timeline
+
+Q4/2022: 
+Gaming Miner is open for application free-of-chage. 1st generation Remote Miner is open for pre-order.
+
+Q1-Q2/2023: 
+1st generation Arkreen-Qualified Standard Miner is ready for shipment for standard mining
+Arkreen Miner product specification is open-source to community
+
+Q2-Q3/2023: 
+Community starts to develop the next generation own brand Arkreen-qualified Standard miners
+
+Q3-Q4/2023
+Next generation Arkreen-Qualified Standard Miners are ready for shipment.
