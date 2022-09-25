@@ -14,7 +14,7 @@ IoT (Internet of Things), AI (Artificial Intelligence), blockchain (Distributed 
 
 To boost the longtail distributed renewable energy ecosystem, Arkreen Network is developed to build a Web3-powered infrastructure for globally-distributed renewable resources connection and monetization to enable carbon-reduction applications.
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image.png" alt="" data-size="original">
 
 We believe an infrastructure that could aggregate data from and pass downlink control to energy facilities in a secure and trusted way, is the foundation for a thriving distributed renewable energy ecosystem. The purpose of the Arkreen Network is building such an IaaS (Infrastructure as a Service) on the shoulder of Web3's power.
 
