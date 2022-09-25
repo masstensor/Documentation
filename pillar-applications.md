@@ -28,6 +28,7 @@ We will deliver energy solutions to provide Arkreen Network participants with mo
 
 For those builders who are participating in an energy management scheme, we will issue NFT identities and increase their reward standard. In this area, we will be eager to cooperate with existing solution providers, as well as with community members to be potential partners.
 
-## DER (Distributed Energy Resources) Operations Platform For the communities with enough energy network nodes, we plan to further promote a Distributed Energy Resources network solution to achieve the proportion of clean energy in the grid, thereby further promoting the centralized clean energy carried by the main grid.
+## DER (Distributed Energy Resources) Operations Platform
+For the communities with enough energy network nodes, we plan to further promote a Distributed Energy Resources network solution to achieve the proportion of clean energy in the grid, thereby further promoting the centralized clean energy carried by the main grid.
 
 We also plan to cooperate with potential Distributed Energy Resources (DER) grid operators to jointly promote the structural transformation of the grid to accelerate the grid’s decarbonization.
