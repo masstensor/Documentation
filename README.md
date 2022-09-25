@@ -2,7 +2,7 @@
 
 ## Background and the Pain Points
 
-Carbon neutrality is one of the biggest challenges facing mankind in the 21st century. Among the most significant contributors to global greenhouse gas emissions (GGE) is the carbon dioxide (CO2) emitted by the power solutions, accounting for around 30% of the total global greenhouse gas emissions.
+Carbon neutrality is one of the biggest challenges facing mankind in the 21st century. Among the most significant contributors to global greenhouse gas emissions (GGE) is the carbon dioxide (CO<sub>2</sub>) emitted by the power solutions, accounting for around 30% of the total global greenhouse gas emissions.
 
 As the global economic growth has demanded more and more electricity, the carbon neutralization progress of the power system plays a key role. That’s why IPCC (Intergovernmental Panel on Climate Change)’s investigation has called for serious concern on renewable energy to mitigate the climate impact.
 
