@@ -16,7 +16,7 @@ In the early stage of network construction, in order to ensure an efficient and 
 
 &#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 &#x20;
 
@@ -30,7 +30,7 @@ The core team and other ecosystem builders will transfer control of the project 
 
 1\. Developing governance rules for the network. We hope that the core contributors  and community contributors can actively propose network construction plans, and fully discuss them in the community. After forming a certain consensus basement, the foundation will formulate and modify the network construction plan in the form of an Arkreen Improvement Proposal (AIP),which includes: formulating technical rules for network software and hardware; network operation rules; designing, deploying, and adjusting reward pools for contributors to clean energy networks. If any specific proposal cannot work through AIP, we can complete the resolution through Snapshot voting.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 2\. Formulating grant funding rules. The Foundation will provide grants for network growth and will set specific funding application requirements and procedures, and establish corresponding granting committees. Funding directions include: distributed green power computing, REC creation and trading, distributed energy management system, community DER power grid operation, etc.
 
