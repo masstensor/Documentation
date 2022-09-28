@@ -20,7 +20,10 @@
   * [What is AKRE?](economy-and-governance/akre-token/what-is-akre.md)
   * [Proof of Green-Energy Generation](economy-and-governance/akre-token/proof-of-green-energy-generation.md)
 * [Arkreen NFTs](economy-and-governance/arkreen-nfts.md)
-* [Governance](economy-and-governance/governance.md)
+* [Governance](economy-and-governance/governance/README.md)
+  * [Community Owned](economy-and-governance/governance/community-owned.md)
+  * [Voting](economy-and-governance/governance/voting.md)
+  * [Arkreen Mariners](economy-and-governance/governance/arkreen-mariners.md)
 
 ## Ecosystem
 
