@@ -3,7 +3,7 @@
 ## Overview
 
 * [What is Arkreen Network](README.md)
-* [The Pain Points to resolve](arkreen-network/readme/background-and-the-pain-points.md)
+* [The Pain Points to Resolve](arkreen-network/readme/background-and-the-pain-points.md)
 * [Arkreen Network Vision](arkreen-network/readme/arkreen-network-vision.md)
 * [Arkreen Miner](arkreen-network/development/miner.md)
 * [Pillar Applications](overview/pillar-applications.md)
@@ -29,7 +29,6 @@
 * [Network Primitives](roadmap/akre-token/network-primitives.md)
 * [Token Distribution](token/token-distribution.md)
 * [Network Reward](token/network-reward.md)
-* [AKRE Token](token/akre-token.md)
 
 ## NFT
 
