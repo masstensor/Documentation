@@ -16,7 +16,10 @@
 ## Roadmap
 
 * [Roadmap Overview](roadmap/roadmap-overview.md)
+* [Phase 0](roadmap/phase0.md)
 * [Phase 1](roadmap/phase1.md)
+* [Phase 2](roadmap/phase2.md)
+* [Phase 3](roadmap/phase3.md)
 * [AKRE Token](roadmap/akre-token/README.md)
   * [Network Primitives](roadmap/akre-token/network-primitives.md)
   * [What is AKRE?](roadmap/akre-token/what-is-akre.md)
@@ -26,8 +29,6 @@
   * [Community Owned](roadmap/governance/community-owned.md)
   * [Voting](roadmap/governance/voting.md)
   * [Arkreen Mariners](roadmap/governance/arkreen-mariners.md)
-
-## Ecosystem
 
 ## Support
 
