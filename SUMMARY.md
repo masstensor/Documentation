@@ -28,12 +28,12 @@
 
 ## Token
 
-* [What is AKRE?](token/what-is-akre.md)
-* [Network Primitives](token/network-primitives.md)
+* [What is AKRE?](roadmap/akre-token/what-is-akre.md)
+* [Network Primitives](roadmap/akre-token/network-primitives.md)
 * [Token Distribution](token/token-distribution.md)
 * [Network Reward](token/network-reward.md)
-* [AKRE Token](token/akre-token/README.md)
-  * [Proof of Green-Energy Generation](token/akre-token/proof-of-green-energy-generation.md)
+* [AKRE Token](roadmap/akre-token/README.md)
+  * [Proof of Green-Energy Generation](roadmap/akre-token/proof-of-green-energy-generation.md)
 
 ## Support
 
