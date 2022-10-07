@@ -35,6 +35,10 @@
 * [AKRE Token](roadmap/akre-token/README.md)
   * [Proof of Green-Energy Generation](roadmap/akre-token/proof-of-green-energy-generation.md)
 
+## NFT
+
+* [Miner NFT](nft/miner-nft.md)
+
 ## Support
 
 * [FAQ](support/faq.md)
