@@ -12,8 +12,9 @@ The Arkreen Network will reward all participants who have contributed to the net
 
 
 
-| 1\~2   |  200 million  | 3\~4   |  180 million  |
+| Year   |Reward per Year| Year   |Reward per Year|
 | ------ | ------------- | ------ | ------------- |
+| 1\~2   |  200 million  | 3\~4   |  180 million  |
 | 5\~6   |  160 million  | 7\~8   |  140 million  |
 | 9\~10  |  120 million  | 11\~12 |  110 million  |
 | 13\~14 |  100 million  | 15\~16 |  90 million   |
@@ -30,19 +31,21 @@ An epoch is roughly 60 minutes. The epochs in different duration is listed in th
 
 
 
-| Day   | 24    |
+|Duration|Epoches|
 | ----- | ----- |
+| Day   | 24    |
 | Week  | 168   |
 | Month | 720   |
 | Year  | 8,640 |
 
 Assuming that the Arkreen network launches on January 1, 2023 and the number of AKRE rewards in the first year will be 200 million, the number of reward cycles corresponding to different time units will be:
 
-| Epoch | 23,148     |
+| Period |Rewarded AKREs|
 | ----- | ---------- |
+| Epoch | 23,148     |
 | Day   | 555,556    |
 | Week  | 3,888,888  |
 | Month | 16,666,666 |
 
-&#x20;
+
 
