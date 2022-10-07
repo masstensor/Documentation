@@ -20,15 +20,20 @@
 * [Phase 1](roadmap/phase1.md)
 * [Phase 2](roadmap/phase2.md)
 * [Phase 3](roadmap/phase3.md)
-* [AKRE Token](roadmap/akre-token/README.md)
-  * [Network Primitives](roadmap/akre-token/network-primitives.md)
-  * [What is AKRE?](roadmap/akre-token/what-is-akre.md)
-  * [Proof of Green-Energy Generation](roadmap/akre-token/proof-of-green-energy-generation.md)
 * [Arkreen NFTs](roadmap/arkreen-nfts.md)
 * [Governance](roadmap/governance/README.md)
   * [Community Owned](roadmap/governance/community-owned.md)
   * [Voting](roadmap/governance/voting.md)
   * [Arkreen Mariners](roadmap/governance/arkreen-mariners.md)
+
+## Token
+
+* [What is AKRE?](token/what-is-akre.md)
+* [Network Primitives](token/network-primitives.md)
+* [Token Distribution](token/token-distribution.md)
+* [Network Reward](token/network-reward.md)
+* [AKRE Token](token/akre-token/README.md)
+  * [Proof of Green-Energy Generation](token/akre-token/proof-of-green-energy-generation.md)
 
 ## Support
 
