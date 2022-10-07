@@ -36,7 +36,7 @@ Arkreen Network distributes the reward to the miners according to the trustworth
 
 In order to avoid miners reporting false power generation data to the network, Arkreen Network uses a novel method for data authenticity judgment. The judging method is as follows: firstly, according to the external weather and photovoltaic oracle data, it is judged whether the power generation data is within the legal range. If the data exceeds the upper limit of the theoretical power generation capacity, the data trustworthiness score will be 0, and the miners will not be able to obtain reward income. Secondly, according to the average real-time power of the miner, the real-time power data obtained by sampling the data statistics window is normalized, and the real-time power vector is obtained.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (1).png>)
 
 Thirdly, find other miners within a certain distance around the miner, and calculate the similarity between the target miner and the real-time power vector of each surrounding miner. The more similarities between the surrounding miners and the target miner's real-time power vector, the more rewards the target miner gets, but the total number does not exceed 6.
 

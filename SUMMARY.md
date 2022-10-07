@@ -1,18 +1,17 @@
 # Table of contents
 
-## Arkreen Network
+## Overview
 
-* [Overview](README.md)
-  * [Background and the Pain Points](arkreen-network/readme/background-and-the-pain-points.md)
-  * [The Arkreen Network](arkreen-network/readme/the-arkreen-network.md)
-  * [Arkreen Network Vision](arkreen-network/readme/arkreen-network-vision.md)
-* [Development](arkreen-network/development/README.md)
-  * [Tech Roadmap](arkreen-network/development/tech-roadmap/README.md)
-    * [Phase 1](arkreen-network/development/tech-roadmap/phase1.md)
-  * [Miner](arkreen-network/development/miner.md)
-* [How to Use](arkreen-network/how-to-use/README.md)
-  * [Arkreen Wallet](arkreen-network/how-to-use/arkreen-wallet.md)
-  * [Arkreen Explorer](arkreen-network/how-to-use/arkreen-explorer.md)
+* [What is Arkreen Network](README.md)
+* [The Pain Points to resolve](overview/the-pain-points-to-resolve.md)
+* [Arkreen Network Vision](overview/arkreen-network-vision.md)
+* [Arkreen Miner](overview/arkreen-miner.md)
+* [Development](overview/development/README.md)
+  * [Tech Roadmap](overview/development/tech-roadmap/README.md)
+    * [Phase 1](overview/development/tech-roadmap/phase1.md)
+* [How to Use](overview/how-to-use/README.md)
+  * [Arkreen Wallet](overview/how-to-use/arkreen-wallet.md)
+  * [Arkreen Explorer](overview/how-to-use/arkreen-explorer.md)
 
 ## Economy & Governance
 
