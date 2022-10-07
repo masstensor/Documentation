@@ -2,7 +2,7 @@
 
 
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5).png>)
 
 We believe an infrastructure that could aggregate data from and pass downlink control to energy facilities in a secure and trusted way, is the foundation for a thriving distributed renewable energy ecosystem. The purpose of the Arkreen Network is building such an IaaS (Infrastructure as a Service) on the shoulder of Web3's power.There are various pieces of equipment and scenarios that generate, store or consume renewable electricity. Thus it’s a complex technical, engineering and economical problem how to coordinate and incentivize all participants to achieve higher efficiency and lower carbon emission. The de-carbonization effort is contributed to if:
 
