@@ -1,7 +1,5 @@
 # Arkreen Miner
 
-## Arkreen Miner
-
 
 
 | Miner Type     | Mining Method   | Rewards                                  | Launch Phase | Appearance                                     |
