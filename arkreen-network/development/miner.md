@@ -22,7 +22,7 @@ A Standard Miner is a plug-in dongle that the solar PV owners could plug into th
 
 The 1st generation Standard Miner is DTU form-factor as a retrofit solution to upgrade existing photovoltaic panel equipment.
 
-<img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 The Standard Miner which is plugged into the inverter, is an indispensable component of the PV system. The cellular connectivity is already built in. All you need to do is plugging the miner and binding it with the Arkreen Mobile App before you could earn rewards.
 

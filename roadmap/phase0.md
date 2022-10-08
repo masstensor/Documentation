@@ -3,16 +3,16 @@
 Phase 0 is the earliest phase for the testing purpose.
 
 There are 3 sub-phases:
+
 * Phase 0.1: Gaming Mining Testing Phase
 * Phase 0.2: Remote Mining Testing Phase
 * Phase 0.3: Standard Mining Testing Phase
-
 
 ## **Phase 0.1**: **Gaming Mining Testing Phase**
 
 Because the physical miner manufacture should take a period, in the early testing phase Gaming Mining is available as the first mining method.
 
-See [What is A Gaming Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/ox2aPksTwticIBb1Ryur/overview/miner#gaming-miner).
+See [What is A Gaming Miner](../arkreen-network/development/miner.md#gaming-miner).
 
 * Token
   * Issue ERC20 gAKRE (gaming AKRE) on Polygon
@@ -28,13 +28,11 @@ See [What is A Gaming Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/ox
 
 Note: The term “owner” is represented by a Polygon address which is controlled by an entity.
 
-
 ## **Phase 0.2**: **Remote Mining Testing Phase**
 
 Remote Mining is available from Phase 0.2.
 
-See [What is A Remote Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/ox2aPksTwticIBb1Ryur/overview/miner#remote-miner).
-
+See [What is A Remote Miner](../arkreen-network/development/miner.md#remote-miner).
 
 * Token
   * Issue ERC20 tAKRE (testing AKRE) on Polygon
@@ -49,13 +47,11 @@ See [What is A Remote Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/ox
   * The ownership of a Remote Miner is non-transferable until the Gaming Miner Upgrade Period ends.
   * Only in Phase 0, the same quantity of Gaming Miners are airdropped to the owner who has pre-ordered or purchased one or more Remote Miners.
 
-
-
 ## **Phase 0.3**: **Standard Mining Testing Phase**
 
 Standard Mining is available from Phase 0.3.
 
-See [What is A Standard Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/ox2aPksTwticIBb1Ryur/overview/miner#standard-miner).
+See [What is A Standard Miner](../arkreen-network/development/miner.md#standard-miner).
 
 * Token
   * Issue ERC20 tAKRE (testing AKRE) on Polygon
@@ -69,4 +65,3 @@ See [What is A Standard Miner](https://app.gitbook.com/o/Y6DeUYWJKVz3xKLvZ9eT/s/
   * Standard Miners start In Phase 0 will automatically move from testnet to mainnet when Phase 1 starts.
   * The ownership of a Standard Miner is non-transferable until the Gaming Miner Upgrade Period ends.
   * Only in Phase 0, the same quantity of Gaming Miners are airdropped to the owner who has purchased one or more Standard Miners.
-
