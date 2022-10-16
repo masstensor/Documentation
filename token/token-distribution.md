@@ -2,7 +2,7 @@
 
 The distribution of Builders' reward does change over time to align incentives with the needs of the network, and the token distribution schedule:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Token Distribution</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Token Distribution</p></figcaption></figure>
 
 
 

@@ -16,7 +16,7 @@ In the early stage of network construction, in order to ensure an efficient and 
 
 &#x20;
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 &#x20;
 
