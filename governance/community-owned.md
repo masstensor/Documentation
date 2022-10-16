@@ -16,7 +16,7 @@ In the early stage of network construction, in order to ensure an efficient and 
 
 &#x20;
 
-![](<../.gitbook/assets/image (6).png>)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>DAO Governance Model</p></figcaption></figure>
 
 &#x20;
 

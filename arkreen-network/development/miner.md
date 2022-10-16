@@ -2,11 +2,11 @@
 
 
 
-| Miner Type     | Mining Method   | Rewards                                         | Launch Phase |
-| -------------- | --------------- | ----------------------------------------------- | ------------ |
-| Gaming Miner   | Gaming Mining   | gAKRE (testnet)                                 | Phase 0.1    |
-| Remote Miner   | Remote Mining   | <p>tAKRE (testnet)</p><p><br>AKRE (mainnet)</p> | Phase 0.2    |
-| Standard Miner | Standard Mining | <p>tAKRE (testnet)</p><p><br>AKRE (mainnet)</p> | Phase 0.3    |
+| Miner Type     | Mining Method   | Rewards                                     | Launch Phase |
+| -------------- | --------------- | ------------------------------------------- | ------------ |
+| Gaming Miner   | Gaming Mining   | gAKRE (testnet)                             | Phase 0.1    |
+| Remote Miner   | Remote Mining   | <p>tAKRE (testnet)</p><p>AKRE (mainnet)</p> | Phase 0.2    |
+| Standard Miner | Standard Mining | <p>tAKRE (testnet)</p><p>AKRE (mainnet)</p> | Phase 0.3    |
 
 ## **Gaming Miner**
 
@@ -22,7 +22,7 @@ A Standard Miner is a plug\&play smart data logger device that solar PV owners p
 
 The 1st generation Standard Miner is smart data logger device, a retrofitted solution to upgrade existing photovoltaic panel equipment.
 
-<figure><img src="../../.gitbook/assets/DTU description-1.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/DTU description-1.drawio.png" alt=""><figcaption><p>Standard Miner</p></figcaption></figure>
 
 The Standard Miner, which is plugged into the inverter, is an indispensable component of the PV system. The cellular connectivity is already built in. All you need to do is to plug the miner and bind it with the Arkreen Mobile App before you can earn rewards.
 

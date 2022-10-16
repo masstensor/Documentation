@@ -1,6 +1,6 @@
 # Arkreen Network Vision
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Arkreen Network Vision</p></figcaption></figure>
 
 We believe in an infrastructure that aggregates data from, and passes  downlink control of the data to  energy facilities in a secure and trusted way, is the foundation for a thriving distributed renewable energy ecosystem. The purpose of the Arkreen Network is to build such an IaaS (Infrastructure as a Service) harneshing innovative power via a Web3 future.
 
