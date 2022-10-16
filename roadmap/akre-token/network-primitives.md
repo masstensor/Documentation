@@ -2,7 +2,7 @@
 
 ## Epochs
 
-Arkreen Network approximately every 60 minutes marks the passing of an epoch. Mining rewards are distributed per epoch (as opposed to per block in most blockchain-based systems). At the conclusion of each epoch, the Arkreen Foundation will update the ledger for all the AKRE produced in that epoch.
+Arkreen Network marks the passing of an epoch **** approximately every 60 minutes (one hour). Mining rewards are distributed per epoch (as opposed to per block in most blockchain-based systems). At the conclusion of each epoch, the Arkreen Foundation will update the ledger for all the AKRE produced from that epoch period.
 
 The epochs in different duration is listed in the below table:
 
@@ -15,7 +15,7 @@ The epochs in different duration is listed in the below table:
 
 ## Transactions
 
-The Arkreen Network has many transaction types. Following are the most important ones: Registration transaction: adding a Solar Miner to the Arkreen network; Rewards transaction: trigger the Arkreen network to reward each participant.
+The Arkreen Network has many transaction types. The following are the most important ones: Registration transaction: adding a Solar Miner to the Arkreen network; Rewards transaction: trigger the Arkreen network to reward each participant.
 
 ## Accounts, Wallets and Keys
 
