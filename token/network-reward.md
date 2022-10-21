@@ -32,13 +32,13 @@ An epoch is roughly 60 minutes. The epochs for different durations are listed in
 | Day      | 24      |
 | Week     | 168     |
 | Month    | 720     |
-| Year     | 8,640   |
+| Year     | 8,760   |
 
 Assuming that the Arkreen network launches on January 1, 2023 and the number of AKRE rewards in the first year will be 200 million, the number of reward cycles corresponding to different time units are calculated below as:
 
 | Period | Rewarded AKREs |
 | ------ | -------------- |
-| Epoch  | 23,148         |
-| Day    | 555,556        |
-| Week   | 3,888,888      |
-| Month  | 16,666,666     |
+| Epoch  | 22,831         |
+| Day    | 547,945        |
+| Week   | 3,835,616      |
+| Month  | 16,438,356     |
